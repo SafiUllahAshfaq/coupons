@@ -1,6 +1,3 @@
 [submodule "coupons-fe"]
-	path = coupons-fe
-	url = https://github.com/SafiUllahAshfaq/coupons-fe.git
-[submodule "coupons-bk"]
-	path = coupons-bk
-	url = https://github.com/SafiUllahAshfaq/coupons-bk.git
+path = coupons-fe
+url = https://github.com/SafiUllahAshfaq/coupons-fe.git
